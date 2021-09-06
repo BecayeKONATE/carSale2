@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:01:06 +0000] "GET / HTTP/1.1" 200 475 http-bio-8080-exec-2 736
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:01:25 +0000] "POST /login.do HTTP/1.1" 302 - http-bio-8080-exec-6 5
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:01:25 +0000] "GET /formation.do HTTP/1.1" 200 475 http-bio-8080-exec-7 15
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:01:43 +0000] "POST /login.do HTTP/1.1" 302 - http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:01:43 +0000] "GET /formation.do HTTP/1.1" 200 475 http-bio-8080-exec-10 6
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:03:31 +0000] "GET /formation.do HTTP/1.1" 200 475 http-bio-8080-exec-4 7
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:03:36 +0000] "POST /login.do HTTP/1.1" 200 497 http-bio-8080-exec-5 6
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:03:47 +0000] "POST /login.do HTTP/1.1" 302 - http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:03:47 +0000] "GET /formation.do HTTP/1.1" 200 475 http-bio-8080-exec-2 5
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:10:02 +0000] "GET /formation.do HTTP/1.1" 200 475 http-bio-8080-exec-2 332
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:10:12 +0000] "POST /login.do HTTP/1.1" 302 - http-bio-8080-exec-5 2
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:10:14 +0000] "GET /formation.do HTTP/1.1" 200 1406 http-bio-8080-exec-6 2196
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:10:27 +0000] "GET /logout.do HTTP/1.1" 200 475 http-bio-8080-exec-9 4
+0:0:0:0:0:0:0:1 - - [31/Aug/2021:11:10:33 +0000] "GET /formation.do HTTP/1.1" 200 475 http-bio-8080-exec-1 3

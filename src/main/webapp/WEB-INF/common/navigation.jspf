@@ -1,0 +1,11 @@
+<header>
+<a href="/" class="brand">Saraya</a>
+	<ul>
+		<li> <a href="#">Home</a></li>
+		<li><a href="/formation.do">Courses</a></li>
+		<li><a href="https://www.sarayatechsolutions.com">SarayaTech</a></li>
+	</ul>
+	<ul>
+			<li><a href="/logout.do">Logout</a></li>
+	</ul>
+	</header>
